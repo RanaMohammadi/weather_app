@@ -1,0 +1,60 @@
+.header {
+  text-align: center;
+  color: darkblue;
+  padding-top: 10px;
+}
+
+.search-icon {
+  font-size: 20px;
+}
+.status-icon {
+  font-size: 64px;
+}
+.info {
+  color: darkblue;
+}
+h1 {
+  padding: 0 30px;
+  text-transform: capitalize;
+}
+.current {
+  color: darkslateblue;
+  padding-left: 30px;
+}
+.status {
+  font-size: 20px;
+}
+ul {
+  list-style-type: none;
+}
+.tempreture {
+  font-size: 64px;
+}
+.units {
+  position: relative;
+  top: -32px;
+}
+.specification-box {
+  color: darkslateblue;
+  font-size: 17px;
+}
+.daily-data {
+  text-align: center;
+}
+.min-max {
+  margin: auto;
+}
+.hourly-data {
+  text-align: center;
+}
+.hourly-data-icon {
+  font-size: 22px;
+}
+.holder {
+  margin: 20px auto;
+  padding: 20px;
+  border: black solid 1px;
+  max-width: 700px;
+  background-image: url(images/download.jpeg);
+  border-radius: 10px;
+}
